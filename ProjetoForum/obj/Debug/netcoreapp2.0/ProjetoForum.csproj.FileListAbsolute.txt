@@ -1,0 +1,10 @@
+C:\Users\40344056864\backend\ProjetoForum\ProjetoForum\bin\Debug\netcoreapp2.0\ProjetoForum.deps.json
+C:\Users\40344056864\backend\ProjetoForum\ProjetoForum\bin\Debug\netcoreapp2.0\ProjetoForum.runtimeconfig.json
+C:\Users\40344056864\backend\ProjetoForum\ProjetoForum\bin\Debug\netcoreapp2.0\ProjetoForum.runtimeconfig.dev.json
+C:\Users\40344056864\backend\ProjetoForum\ProjetoForum\bin\Debug\netcoreapp2.0\ProjetoForum.dll
+C:\Users\40344056864\backend\ProjetoForum\ProjetoForum\bin\Debug\netcoreapp2.0\ProjetoForum.pdb
+C:\Users\40344056864\backend\ProjetoForum\ProjetoForum\obj\Debug\netcoreapp2.0\ProjetoForum.csproj.CoreCompileInputs.cache
+C:\Users\40344056864\backend\ProjetoForum\ProjetoForum\obj\Debug\netcoreapp2.0\ProjetoForum.AssemblyInfoInputs.cache
+C:\Users\40344056864\backend\ProjetoForum\ProjetoForum\obj\Debug\netcoreapp2.0\ProjetoForum.AssemblyInfo.cs
+C:\Users\40344056864\backend\ProjetoForum\ProjetoForum\obj\Debug\netcoreapp2.0\ProjetoForum.dll
+C:\Users\40344056864\backend\ProjetoForum\ProjetoForum\obj\Debug\netcoreapp2.0\ProjetoForum.pdb
